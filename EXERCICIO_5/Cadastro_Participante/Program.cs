@@ -5,7 +5,7 @@ namespace TesteInga;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args) 
     {
         string inputUser;
         Console.Clear();
