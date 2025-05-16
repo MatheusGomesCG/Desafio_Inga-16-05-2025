@@ -7,7 +7,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Clear();
+        Console.Clear(); 
         string inputUser;
         Console.Write("Quantidade de ingressos: ");
         inputUser = Console.ReadLine();
