@@ -41,7 +41,6 @@ class Program
             Console.WriteLine("Não");
         }
     }
-
     static int IsInteger(string inputUser)
     {
         int.TryParse(inputUser, out int isIntegerValue);
