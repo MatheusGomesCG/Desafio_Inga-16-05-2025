@@ -23,7 +23,6 @@ class Program
         {
             Console.WriteLine("Evento Grande");
         }
-
     }
     static int IsInteger(string inputUser)
     {
