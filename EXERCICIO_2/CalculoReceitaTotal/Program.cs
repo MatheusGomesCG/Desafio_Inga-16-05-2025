@@ -29,7 +29,6 @@ class Program
         }
         return isIntegerValue;
     }
-
     static double IsDouble(string inputUser)
     {
         double.TryParse(inputUser, out double isDoubleValue);
