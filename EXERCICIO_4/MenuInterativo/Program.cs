@@ -6,7 +6,7 @@ namespace TesteInga;
 
 class Program
 {
-    static List<Dictionary<string, object>> newEvents = new List<Dictionary<string,object>>();
+    static List<Dictionary<string, object>> newEvents = new List<Dictionary<string,object>>(); 
     static async Task Main(string[] args)
     {
         bool exit = false;
